@@ -4,7 +4,7 @@ package csv;
  * An abstract class that serves as a super class and template for the other more specific indicator classes.  Has
  * a constructor, getter for th year, two accessor methods for Data, anda toString.
  *
- * @author Foothill College, Reece Kim
+ * @author Foothill College, Yilin Shen
  */
 public abstract class Indicator
 {

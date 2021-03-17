@@ -4,7 +4,7 @@ package csv;
  * A subclass of Indicator which contains an attribute for the GDP per capita of a country and a year.  Also Overrides
  * and defines Indicator's undefined methods.
  *
- * @author Foothill College, Reece Kim
+ * @author Foothill College, Yilin Shen
  */
 public class GDPIndicator extends Indicator
 {

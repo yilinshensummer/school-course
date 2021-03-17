@@ -6,7 +6,7 @@ import csv.*;
 
 /**
  * Provides access to CSV data.
- * @author Foothill College, Bita M. [YOUR NAME HERE]
+ * @author Foothill College, Bita M.Yilin Shen
  */
 public class DataModel 
 {    

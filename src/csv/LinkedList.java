@@ -10,7 +10,7 @@ import java.util.ListIterator;
  * The Nodes class holds data of a generic type and a reference to the next node in the list. The ListIterator class
  * iterates through each Node of the LinkedList.
  *
- * @author Foothill College, Reece Kim, Yilin Shen
+ * @author Foothill College,Yilin Shen
  *
  * @param <T>        A generic.
  */

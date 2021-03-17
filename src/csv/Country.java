@@ -8,7 +8,7 @@ import java.util.ListIterator;
  * constructors, an equals method to compare the name of two countries, getter and setter methods for the attributes, or
  * to get indicator data of a specfic year, and has a method that allows the user to get the data for a period of years.
  *
- * @author Foothill College, Reece Kim, Yilin Shen
+ * @author Foothill College, Yilin Shen
  */
 public class Country
 {

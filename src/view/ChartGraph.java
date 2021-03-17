@@ -26,7 +26,7 @@ import csv.InvalidFileFormatException;
  * via the GraphView class. Then sets up the scene with basic modification to
  * the stage.
  *
- * @author Foothill College, Reece Kim, Yilin Shen
+ * @author Foothill College, Yilin Shen
  */
 public class ChartGraph extends Application
 {	

@@ -4,7 +4,7 @@ package csv;
  * A user defined exception class which extends java.io.IOException. Returns a message for when a file is poorly
  * formatted.
  *
- * @author Foothill College, Reece Kim
+ * @author Foothill College, Yilin Shen
  */
 public class InvalidFileFormatException extends java.io.IOException
 {

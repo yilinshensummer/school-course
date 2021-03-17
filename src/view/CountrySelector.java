@@ -9,7 +9,7 @@ import model.LinkedList;*/
 
 /**
  * Randomly builds a LinkedList of Country objects to be used in the graph
- * @author Foothill College, Bita M. [YOUR NAME HERE]
+ * @author Foothill College, Bita M. Yilin Shen
  */
 public class CountrySelector 
 {

@@ -4,7 +4,7 @@ package csv;
  * A subclass of Indicator that has attributes for primary and secondary school data and the year.  Also Overrides and
  * defines Indicator's undefined methods.
  *
- * @author Foothill College, Reece Kim
+ * @author Foothill College, Yilin
  */
 public class SchoolEnrollmentIndicator extends Indicator
 {

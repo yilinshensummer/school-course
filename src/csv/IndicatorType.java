@@ -3,7 +3,7 @@ package csv;
 /**
  * An enum used to help indicate the kind of data that will be in a .csv file.
  *
- * @author Foothill College, Reece Kim
+ * @author Foothill College, Yilin Shen
  */
 public enum IndicatorType
 {
